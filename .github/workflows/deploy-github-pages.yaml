@@ -70,7 +70,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # path: .exampleSite/public
-          path: /public
+          path: exampleSite/public
         
 
   # Deployment job
