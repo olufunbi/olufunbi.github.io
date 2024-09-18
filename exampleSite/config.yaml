@@ -284,22 +284,22 @@ params:
         featuredLink:
           enable: true
           name: "My academic record"
-          url: "https://example.com"
+          url: "https://drive.google.com/file/d/1j92jA-ZALFE3TS6ZaV3xQC-RT2q_kRND/view?usp=sharing"
 
       - title: "Bachelor of Science in Civil Engineering"
         school:
           name: "University of Ibadan"
-          url: "https://example.org"
+          url: "http://www.ui.edu.ng/"
         date: "2014 - 2019"
         GPA: "3.0 out of 4.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - I served as the Chairman for the Annual NICESA conference. 
+            - I represented my department in an annual airport modelling competition at Obafemi Awolowo University.
+        featuredLink:
+          enable: true
+          name: "My academic record"
+          url: "https://drive.google.com/file/d/1imFiblP7l-251MrJ80BuXBbycth8flXk/view?usp=sharing"
 
 
   # Achievements
@@ -329,23 +329,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Beamstack
+        content: Beamstack is a framework that simplifies the deployment of complext AI & ML workflows on kubernetes.
+        image: /images/projects/logo-color-new.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: Website
+          link: https://beamstackproj.github.io
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "AI"
+          - "ML"
+          - "Kubernetes"
+          - "Python"
+          - "Apache Beam"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/olufunbi/olufunbi.github.io
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Folufunbi%2Fhugo-profile
+            url: https://github.com/beamstackproj/beamstack-cli
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
