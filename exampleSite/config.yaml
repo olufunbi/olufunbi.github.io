@@ -1,6 +1,6 @@
 baseURL: https://olufunbi.github.io
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Olufunbi Babalola"
 theme: hugo-profile
 
 outputs:
@@ -53,10 +53,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Olufunbi Babalola"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/2.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -109,7 +109,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Olufunbi Babalola" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -131,7 +131,7 @@ params:
     title: "Olufunbi."
     subtitle: "I build software products"
     content: "A passionate product manager specializing in enterprise large-scale distributed systems. I conceptualize and implement cutting edge AI & ML technologies that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /images/portrait.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -151,14 +151,14 @@ params:
           url: https://x.com/funb_i
         
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /2.png
+          url: "https://github.olufunbi.io"
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/portrait.jpeg"
     content: |-
       I am a Technical Product Manager with a passion for artificial intelligence and automation. I have a background in cloud development, security and engineering management, and I have a strong interest in the intersection of technology and management. I am currently working as a Technical Product Manager at [MavenCode](https://mavencode.com) in Dallas, TX.
 
@@ -343,7 +343,7 @@ params:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/olufunbi/hugo-profile
+            url: https://github.com/olufunbi/olufunbi.github.io
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Folufunbi%2Fhugo-profile
 
