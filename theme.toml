@@ -1,9 +1,9 @@
-name = "Hugo Profile"
+name = "Olufunbi Babalola"
 license = "MIT"
-licenselink = "https://github.com/olufunbi/hugo-profile/blob/master/LICENSE"
+licenselink = "https://github.com/olufunbi/olufunbi.github.io/blob/master/LICENSE"
 description = "A high performance and mobile first hugo template for personal portfolio and blog."
-homepage = "https://github.com/olufunbi/hugo-profile"
-demosite = "https://hugo-profile.netlify.app"
+homepage = "https://github.com/olufunbi/olufunbi.github.io"
+demosite = "https://olufunbi.github.io"
 tags = ["Responsive","Blog", "Portfolio", "Personal"]
 min_version = "0.68.0"
 
