@@ -53,7 +53,7 @@ jobs:
       - name: Install PostCSS
         run: npm install -D autoprefixer postcss-cli postcss
       - name: Change directory
-        working-directory: .exampleSite/public
+        working-directory: exampleSite/public
         run: ls
       - name: Build with Hugo
         env:
