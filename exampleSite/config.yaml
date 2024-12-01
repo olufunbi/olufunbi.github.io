@@ -318,27 +318,27 @@ params:
           url: "https://drive.google.com/file/d/1imFiblP7l-251MrJ80BuXBbycth8flXk/view?usp=sharing"
 
 
-  # Achievements
+  # Publications
   achievements:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/olufunbi/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: "Policy framework for Cloud Computing: AI, governance, compliance and management"
+        content: A policy framework for secure, ethical, and efficient cloud computing with AI integration..
+        url: https://gjeta.com/content/policy-framework-cloud-computing-ai-governance-compliance-and-management
+        image: /images/policy.jpg
+      - title: A comprehensive model for ensuring data compliance in cloud computing environment
+        content: A scalable model for ensuring secure and compliant data operations in dynamic cloud environments.
+        url: https://wjarr.com/content/comprehensive-model-ensuring-data-compliance-cloud-computing-environment
+        image: /images/model.jpg
+      - title: "A governance framework model for cloud computing: role of AI, security, compliance, and management"
+        content: An AI-driven governance framework for secure, compliant, and efficient cloud operations.
+        url: "https://wjarr.com/content/governance-framework-model-cloud-computing-role-ai-security-compliance-and-management"
+        image: /images/framework.jpg
+      - title: "Compliance and Governance issues in Cloud Computing and AI: USA and Africa"
+        content: Comparative analysis of cloud and AI compliance and governance in the USA and Africa, emphasizing harmonized, adaptive frameworks.
+        url: https://gjeta.com/content/compliance-and-governance-issues-cloud-computing-and-ai-usa-and-africa
+        image: /images/compliance.jpg
 
   # projects
   projects:
