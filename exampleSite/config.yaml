@@ -236,10 +236,11 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          At Homerunner, I laid out the technology foundations of the business upon which their current systems operate. This includes the Cloud Software Architecture, Backend Systems and User Interface.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Functioned as the Chief Technology Officer for the company.
+          - Laid out the technical foundations upon which the business was established.
+          - Managed a team of 13 software engineers, quality assurance analysts and product designers.
 
       - job: "Software Automation Engineer"
         company: "Hubstaff"
