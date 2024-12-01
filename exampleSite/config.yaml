@@ -321,7 +321,7 @@ params:
   # Publications
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Publications"
     items:
       - title: "Policy framework for Cloud Computing: AI, governance, compliance and management"
         content: A policy framework for secure, ethical, and efficient cloud computing with AI integration..
