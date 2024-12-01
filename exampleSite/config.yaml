@@ -160,9 +160,9 @@ params:
     title: "About Me"
     image: "/images/portrait.jpeg"
     content: |-
-      I am a Technical Product Manager with a passion for artificial intelligence and automation. I have a background in cloud development, security and engineering management, and I have a strong interest in the intersection of technology and management. I am currently working as a Technical Product Manager at [MavenCode](https://mavencode.com) in Dallas, TX.
+      I am a Technical Product Manager with a passion for artificial intelligence and automation. I have a background in cloud development, security and engineering management, and I have a strong interest in the intersection of technology and management. I am currently working as a Technical Product Manager at [Copart](https://copart.com) in Dallas, TX.
 
-      I am currently working on a project that will be simplify the deployment of complex Machine Learning and Generative Artificial Intelligence workflows on kubernetes.
+         ---
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -179,16 +179,31 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Technical Product Manager (AI & ML)"
-        company: "MavenCode"
-        companyUrl: "https://mavencode.com"
-        date: "Apr 2024 - present"
+      - job: "Technology Product Manager"
+        company: "Copart, Inc"
+        companyUrl: "https://copart.com"
+        date: "Sep 2024 - Present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://beamstackproj.github.io/"
         content: |
-          I am currently working on a project called Beamstack that will simplify the deployment of complex Machine Learning and Generative Artificial Intelligence workflows on kubernetes.
+          At [Copart](https://copart.com), I am responsible for analyzing high-priority business challenges, proposing technology solutions to the impacted domains and implementing high-impact features with net-positive ROI to sovle these problems.
+
+          - I designed the software architecture of 3+ major products.
+          - I led the implementation of multiple high-priority technology products from concept to product launch.
+          - I successfully created pilot plans, roll-out plan and go-to-market strategies for 10+ products.
+
+      - job: "Technical Product Manager (AI & ML)"
+        company: "MavenCode"
+        companyUrl: "https://mavencode.com"
+        date: "Apr 2024 - Sep 2024"
+        featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://beamstackproj.github.io/"
+        content: |
+          At [MavenCode](https://mavencode.com), I worked on a project called Beamstack that simplifies the deployment of complex Machine Learning and Generative Artificial Intelligence workflows on kubernetes.
 
           - I developed prioritized product roadmaps for various artificial intelligence projects
           - I led the implementation of Beamstack, a CLI tool for deploying complex AI & ML workflows on kubernetes.
@@ -205,7 +220,7 @@ params:
           enable: true
           content: I worked as a product manager for less than one year at Salesforce.
         content: |
-          I worked as product manager on the network security team at [salesforce.com](https://salesforce.com) in San Francisco, CA. I led initiatives to build an industry standard secure web application firewall and content delivery network.
+          I worked as product manager on the network security team at [Salesforce](https://salesforce.com) in San Francisco, CA. I led initiatives to build an industry standard secure web application firewall and content delivery network.
 
           - I developed a 3-release phase prioritized product roadmap in alignment with established business objectives
           - I collaborated with a 25-person team to integrate a Layer 7 Web Application Firewall for Salesforce CDN, countering up to 99.9% of sophisticated cyber threats
