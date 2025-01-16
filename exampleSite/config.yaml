@@ -151,8 +151,10 @@ params:
           url: https://x.com/funb_i
         
       customIcons:
-        - icon: /2.png
-          url: "https://github.olufunbi.io"
+        # - icon: /2.png
+        #   url: "https://olufunbi.github.io"
+        - icon: /3.png
+          url: "https://www.researchgate.net/profile/Olufunbi-Babalola-2/research"
 
   # About
   about:
